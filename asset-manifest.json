@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amazon-Carousel-with-React/static/css/main.adf107ce.css",
+    "main.js": "/Amazon-Carousel-with-React/static/js/main.325d66b8.js",
+    "static/js/787.376cdb33.chunk.js": "/Amazon-Carousel-with-React/static/js/787.376cdb33.chunk.js",
+    "index.html": "/Amazon-Carousel-with-React/index.html",
+    "main.adf107ce.css.map": "/Amazon-Carousel-with-React/static/css/main.adf107ce.css.map",
+    "main.325d66b8.js.map": "/Amazon-Carousel-with-React/static/js/main.325d66b8.js.map",
+    "787.376cdb33.chunk.js.map": "/Amazon-Carousel-with-React/static/js/787.376cdb33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf107ce.css",
+    "static/js/main.325d66b8.js"
+  ]
+}
